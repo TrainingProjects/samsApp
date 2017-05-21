@@ -1,0 +1,7 @@
+node_modules/
+www/
+platforms/
+plugins/
+*.swp
+_DS_Store
+Thumbs.db
